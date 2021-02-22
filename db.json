@@ -1,21 +1,44 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
+      "id": 0,
       "title": "First post!",
-      "content" : "My first content!"
+      "content": "My first content!"
     },
-	{
-      "id" : 1,
+    {
+      "id": 1,
       "title": "Two post!",
-      "content" : "My two content!"
+      "content": "My two content!"
     }
   ],
-  "comments" : [
+  "comments": [
     {
       "id": 0,
       "content": "Wow such content!",
       "username": "zero_cool"
+    }
+  ],
+  "institucion": [
+    {
+      "id": "001",
+      "codigoModular": "1413889-0",
+      "sede": "FRANCIS SCHAEFFER",
+      "nivel": "Secundaria",
+      "dre": "UGEL 06 Ate"
+    },
+    {
+      "id": "002",
+      "codigoModular": "1505429-0",
+      "sede": "FRANCIS SCHAEFFER",
+      "nivel": "Primaria",
+      "dre": "UGEL 06 Ate"
+    },
+    {
+      "id": "003",
+      "codigoModular": "1506245-0",
+      "sede": "FRANCIS SCHAEFFER",
+      "nivel": "Inicial Jardin",
+      "dre": "UGEL 06 Ate"
     }
   ]
 }
