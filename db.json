@@ -40,5 +40,37 @@
       "nivel": "Inicial Jardin",
       "dre": "UGEL 06 Ate"
     }
+  ],
+  "biosecurity-conditions": [
+    {
+      "id": 1,
+      "nombre": "Espacio ventilado. Aforo permitido",
+      "info": "Espacio ventilado. Aforo permitido",
+      "esCompletado": true
+    },
+    {
+      "id": 2,
+      "nombre": "Condiciones para el lavado de manos",
+      "info": "Condiciones para el lavado de manos",
+      "esCompletado": true
+    },
+    {
+      "id": 3,
+      "nombre": "Toma de Pruebas COVID-19 para el personal de la I. E.",
+      "info": "Toma de Pruebas COVID-19 para el personal de la I. E.",
+      "esCompletado": true
+    },
+    {
+      "id": 4,
+      "nombre": "Mascarillas para comunidad educativa",
+      "info": "Mascarillas para comunidad educativa",
+      "esCompletado": false
+    },
+    {
+      "id": 5,
+      "nombre": "Limpieza y desinfección del local educativo. Anuncios",
+      "info": "Limpieza y desinfección del local educativo. Anuncios",
+      "esCompletado": false
+    }
   ]
 }
