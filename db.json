@@ -72,5 +72,138 @@
       "info": "Limpieza y desinfección del local educativo. Anuncios",
       "esCompletado": false
     }
-  ]
+  ],
+  "qualifications": {
+    "success": true,
+    "code": 200,
+    "message": null,
+    "validations": [],
+    "data": [
+      {
+        "name": "Presencial",
+        "status": true
+      },
+      {
+        "name": "Semipresencial",
+        "status": false
+      },
+      {
+        "name": "Remoto",
+        "status": false
+      }
+    ]
+  },
+  "implementation-plan": {
+    "success": true,
+    "code": 200,
+    "message": null,
+    "validations": [],
+    "data": [
+      {
+        "name": "Plan de implementación remitido",
+        "statusId": 2
+      },
+      {
+        "name": "Conformidad de la Comunidad Educativa",
+        "statusId": 2
+      },
+      {
+        "name": "Inicio de clases: 05/05/2021",
+        "statusId": 2
+      }
+    ]
+  },
+  "alerts": {
+    "success": true,
+    "code": 200,
+    "message": null,
+    "validations": [],
+    "data": [
+      {
+        "description": "Inventario"
+      },
+      {
+        "description": "Hábitos"
+      },
+      {
+        "description": "Casos sospechosos"
+      }
+    ]
+  },
+  "continuous-monitoring": {
+    "success": true,
+    "code": 200,
+    "message": null,
+    "validations": [],
+    "data": [
+      {
+        "question": "¿Se realizó el monitoreo de inventario?",
+        "month": "MARZO",
+        "weeks": [
+          {
+            "title": "1-7",
+            "statusId": 2
+          },
+          {
+            "title": "8-14",
+            "statusId": 1
+          },
+          {
+            "title": "15-21",
+            "statusId": 1
+          },
+          {
+            "title": "22-28",
+            "statusId": 0
+          }
+        ]
+      },
+      {
+        "question": "¿Se realizó el monitoreo de hábitos?",
+        "month": "MARZO",
+        "weeks": [
+          {
+            "title": "1-7",
+            "statusId": 2
+          },
+          {
+            "title": "8-14",
+            "statusId": 1
+          },
+          {
+            "title": "15-21",
+            "statusId": 1
+          },
+          {
+            "title": "22-28",
+            "statusId": 0
+          }
+        ]
+      },
+      {
+        "question": "¿Se realizó el despistaje de síntomas?",
+        "month": "MARZO",
+        "weeks": [
+          {
+            "title": "1-7",
+            "statusId": 3
+          },
+          {
+            "title": "8-14",
+            "statusId": 9,
+            "alerts": 1
+          },
+          {
+            "title": "15-21",
+            "statusId": 9,
+            "alerts": 4
+          },
+          {
+            "title": "22-28",
+            "statusId": 2
+          }
+        ]
+      }
+    ]
+  }
 }
