@@ -80,14 +80,17 @@
     "validations": [],
     "data": [
       {
+        "id": 1,
         "name": "Presencial",
         "status": true
       },
       {
+        "id": 2,
         "name": "Semipresencial",
         "status": false
       },
       {
+        "id": 3,
         "name": "Remoto",
         "status": false
       }
