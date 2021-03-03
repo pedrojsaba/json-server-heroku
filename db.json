@@ -145,7 +145,7 @@
         "weeks": [
           {
             "title": "1-7",
-            "statusId": 2
+            "statusId": 3
           },
           {
             "title": "8-14",
@@ -157,7 +157,7 @@
           },
           {
             "title": "22-28",
-            "statusId": 0
+            "statusId": 2
           }
         ]
       },
@@ -167,7 +167,7 @@
         "weeks": [
           {
             "title": "1-7",
-            "statusId": 2
+            "statusId": 3
           },
           {
             "title": "8-14",
@@ -179,7 +179,7 @@
           },
           {
             "title": "22-28",
-            "statusId": 0
+            "statusId": 2
           }
         ]
       },
@@ -189,16 +189,16 @@
         "weeks": [
           {
             "title": "1-7",
-            "statusId": 3
+            "statusId": 4
           },
           {
             "title": "8-14",
-            "statusId": 9,
+            "statusId": 5,
             "alerts": 1
           },
           {
             "title": "15-21",
-            "statusId": 9,
+            "statusId": 5,
             "alerts": 4
           },
           {
