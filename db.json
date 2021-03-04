@@ -104,15 +104,15 @@
     "data": [
       {
         "name": "Plan de implementación remitido",
-        "statusId": 2
+        "statusId": 3
       },
       {
         "name": "Conformidad de la Comunidad Educativa",
-        "statusId": 2
+        "statusId": 3
       },
       {
         "name": "Inicio de clases: 05/05/2021",
-        "statusId": 2
+        "statusId": 3
       }
     ]
   },
